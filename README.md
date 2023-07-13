@@ -1,6 +1,6 @@
 # Sample Hardhat Project
 
-# War Card Game
+# AMM - Automated Market Maker
 
 ## Technology Stack & Tools
 
