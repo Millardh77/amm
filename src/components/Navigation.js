@@ -39,7 +39,7 @@ const Navigation = () => {
         height="40"
         className="d-inline-block align-top mx-3"
       />
-      <Navbar.Brand href="#">Dapp University Template</Navbar.Brand>
+      <Navbar.Brand href="#">MCH Media AMM</Navbar.Brand>
 
       <Navbar.Toggle aria-controls="nav" />
       <Navbar.Collapse id="nav" className="justify-content-end">

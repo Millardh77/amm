@@ -12,6 +12,8 @@ import Deposit from './Deposit'
 import Withdraw from './Withdraw'
 import Charts from './Charts'
 
+import './App.css';
+
 import { 
   loadProvider,
   loadNetwork,

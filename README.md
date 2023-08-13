@@ -1,5 +1,3 @@
-# Sample Hardhat Project
-
 # AMM - Automated Market Maker
 
 ## Technology Stack & Tools

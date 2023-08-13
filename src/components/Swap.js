@@ -148,7 +148,7 @@ const Swap = () => {
                                 variant="outline-secondary"
                                 title={inputToken ? inputToken : "Select Token"}
                                 >
-                                    <Dropdown.Item onClick={(e) => setInputToken(e.target.innerHTML)} >DAPP</Dropdown.Item>
+                                    <Dropdown.Item onClick={(e) => setInputToken(e.target.innerHTML)} >MCHT</Dropdown.Item>
                                     <Dropdown.Item onClick={(e) => setInputToken(e.target.innerHTML)} >USD</Dropdown.Item>
                                 </DropdownButton>
                             </InputGroup>
@@ -177,7 +177,7 @@ const Swap = () => {
                                 variant="outline-secondary"
                                 title={outputToken ? outputToken : "Select Token"}
                                 >
-                                    <Dropdown.Item onClick={(e) => setOutputToken(e.target.innerHTML)} >DAPP</Dropdown.Item>
+                                    <Dropdown.Item onClick={(e) => setOutputToken(e.target.innerHTML)} >MCHT</Dropdown.Item>
                                     <Dropdown.Item onClick={(e) => setOutputToken(e.target.innerHTML)} >USD</Dropdown.Item>
                                 </DropdownButton>
                             </InputGroup>

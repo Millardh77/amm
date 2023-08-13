@@ -1,13 +1,35 @@
 {
   "31337": {
-    "dapp": {
-      "address": "0x5FbDB2315678afecb367f032d93F642f64180aa3"
+    "mcht": {
+      "address": "0x9A9f2CCfdE556A7E9Ff0848998Aa4a0CFD8863AE"
     },
     "usd": {
-      "address": "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512"
+      "address": "0x68B1D87F95878fE05B998F19b66F4baba5De1aed"
     },
     "amm": {
-      "address": "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0"
+      "address": "0x3Aa5ebB10DC797CAC828524e59A333d0A371443c"
+    }
+  },
+  "11155111": {
+    "mcht": {
+      "address": "0x53963d192C06c46688beF632929eE5C0f851720a"
+    },
+    "usd": {
+      "address": "0x4a6d56C36dfbdB4cd2D78a71674DE0C4E2F8Cd8F"
+    },
+    "amm": {
+      "address": "0xe073a22C68b64cf1f71b02B484B0785B207969ce"
+    }
+  },
+  "5": {
+    "mcht": {
+      "address": "0xce91DCfa597fc6774E72498ff6EE50334E81B413"
+    },
+    "usd": {
+      "address": "0x98D276221c2349d05d82ce9faF4083e9d3d0Fc8E"
+    },
+    "amm": {
+      "address": "0xcE388045a78B18275daEeD0B56d193efDd30169c"
     }
   }
 }
